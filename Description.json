@@ -1,0 +1,31 @@
+{
+	"file": "http://vcg.github.io/upset/data/test/test.csv",
+	"name": "HVG_SeqDepths",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "HVG" },
+		{ "type": "float", "index": 7, "name": "seq30K_gene.mean" },
+		{ "type": "float", "index": 8, "name": "seq30K_gene.dispersion" },
+		{ "type": "float", "index": 9, "name": "seq30K_gene.dispersion.scaled" },
+		{ "type": "float", "index": 10, "name": "seq50K_gene.mean" },
+		{ "type": "float", "index": 11, "name": "seq50K_gene.dispersion" },
+		{ "type": "float", "index": 12, "name": "seq50K_gene.dispersion.scaled" },
+		{ "type": "float", "index": 13, "name": "seq60K_gene.mean" },
+		{ "type": "float", "index": 14, "name": "seq60K_gene.dispersion" },
+		{ "type": "float", "index": 15, "name": "seq60K_gene.dispersion.scaled" },
+		{ "type": "float", "index": 16, "name": "seq75K_gene.mean" },
+		{ "type": "float", "index": 17, "name": "seq75K_gene.dispersion" },
+		{ "type": "float", "index": 18, "name": "seq75K_gene.dispersion.scaled" },
+		{ "type": "float", "index": 19, "name": "seq100K_gene.mean" },
+		{ "type": "float", "index": 20, "name": "seq100K_gene.dispersion" },
+		{ "type": "float", "index": 21, "name": "seq100K_gene.dispersion.scaled" },
+		{ "type": "float", "index": 22, "name": "seq250K_gene.mean" },
+		{ "type": "float", "index": 23, "name": "seq250K_gene.dispersion" },
+		{ "type": "float", "index": 24, "name": "seq250K_gene.dispersion.scaled" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 6 }
+	]
+}
